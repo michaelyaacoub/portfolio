@@ -7,6 +7,6 @@ range: 'January - May 2021'
 url: 'http://crosswayfis.com/'
 ---
 
-- Collaborated with the CEO to manage updates to crossway website to include a get in touch form, and side pages
-- I developed a website that basically shows clients what services the agency provides and a form to be in touch with.
-- I remodeled a template of their choice of what the agency wanted their app to look like using HTML, CSS, JavaScript.
+- Collaborated with the CEO to manage updates to crossway website to include a get in touch form and side pages.
+- Built and developed a complete online presence that shows clients what services the agency provides and a form to be in touch with.
+- Technologies used HTML, CSS, JavaScript.
