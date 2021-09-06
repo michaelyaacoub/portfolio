@@ -5,9 +5,9 @@ module.exports = {
     title: 'Michael Yaacoub',
     description:
       'Michael Yaacoub is a software engineer who specializes in building web apps.',
-    siteUrl: 'https://michael-yaacoub.com', // No trailing slash allowed!
+    siteUrl: 'https://michaelyaacoub7.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@micyaacoub',
+    twitterUsername: '@michaelyaacoub7',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,

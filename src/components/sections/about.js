@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['React', 'Java', 'Spring', 'MySQL', 'TypeScript', "Next.js", 'CSS', 'AWS'];
+  const skills = ['React', 'Java', 'Spring Boot', 'MySQL', 'JavaScript', "Next.js", 'CSS', 'AWS'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -144,7 +144,7 @@ const About = () => {
             <p>
               I have the privilege to be working on a few freelancing projects.
               <br />
-              My main focus these days is building accessible, inclusive products using React.js.
+              My main focus these days is building frontend projects and grow my skills daily.
             </p>
 
             <p> I am more foucsed on #React.js

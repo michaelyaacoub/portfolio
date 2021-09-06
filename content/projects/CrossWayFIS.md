@@ -2,7 +2,7 @@
 date: '2021-03-27'
 title: 'Insurance Broker Agency'
 github: ''
-external: 'http://crosswayfis.com/'
+external: ''
 tech:
   - JavaScript
   - CSS

@@ -7,6 +7,6 @@ range: 'January - May 2021'
 url: 'http://crosswayfis.com/'
 ---
 
-- Collaborated with the CEO to manage the development of CrossWay FIS's website.
+- Collaborated with the CEO to manage updates to crossway website to include a get in touch form, and side pages
 - I developed a website that basically shows clients what services the agency provides and a form to be in touch with.
-- I remodeled a template of their choice of what the agency wanted their app to look like.
+- I remodeled a template of their choice of what the agency wanted their app to look like using HTML, CSS, JavaScript.

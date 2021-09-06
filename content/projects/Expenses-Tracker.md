@@ -2,7 +2,7 @@
 date: '2021-07-15'
 title: 'Expenses Tracker'
 github: 'https://github.com/michaelyaacoub/ExpenseTracker'
-external: 'https://time-to-have-more-fun.now.sh/'
+external: ''
 tech:
   - React.js
   - CSS
