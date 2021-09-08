@@ -1,19 +1,17 @@
 ---
-date: '2021-03-20'
-title: 'CrossWay FIS'
+date: '2021-09-01'
+title: 'Spotify Profile'
+github: 'https://github.com/michaelyaacoub/spotify-api-app'
 cover: './crosswayfis.png'
-github: 'https://github.com/michaelyaacoub/team-cedars-frontend'
 external: ''
 tech:
-  - HTML
-  - CSS
-  - JavaScript
+  - React
+  - Styled Components
+  - Express
+  - Spotify API
 showInProjects: true
 ---
 
-[CrossWay FIS](http://crosswayfis.com/), is an insurance broker company.
-I remodeled a template of their choice of what the agency wanted the app to look like.
+A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
 
-
-
-
+---
