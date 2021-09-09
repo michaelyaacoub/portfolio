@@ -2,12 +2,12 @@ import { css } from 'styled-components';
 
 const variables = css`
   :root {
-    --dark-navy: #020c1b;
+    --dark-navy: #01050a;
     --navy: #0d0a0a;
     --light-navy: #171515;
-    --lightest-navy: #233554;
-    --navy-shadow: rgba(2, 12, 27, 0.7);
-    --dark-slate: #495670;
+    --lightest-navy: #1f1a18;
+    --navy-shadow: rgba(2, 12, 18, 0.7);
+    --dark-slate: #1a1826;
     --slate: #8892b0;
     --light-slate: #a8b2d1;
     --lightest-slate: #ccd6f6;

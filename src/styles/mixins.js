@@ -62,7 +62,7 @@ const mixins = {
     &:hover,
     &:focus,
     &:active {
-      color: var(--green);
+      color: var(--green-tint);
       outline: 0;
       &:after {
         width: 100%;

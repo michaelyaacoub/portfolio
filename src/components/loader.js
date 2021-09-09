@@ -14,7 +14,7 @@ const StyledLoader = styled.div`
   right: 0;
   width: 100%;
   height: 100%;
-  background-color: #171515;
+  background-color: #0d0a0a;
   z-index: 99;
 
   .logo-wrapper {
