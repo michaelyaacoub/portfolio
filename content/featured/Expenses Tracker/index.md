@@ -6,7 +6,7 @@ github: 'https://github.com/michaelyaacoub/ExpenseTracker'
 external: ''
 tech:
   - React.js
-  - CSS
+  - Styled Components
   - JSON
 showInProjects: true
 ---

@@ -2,8 +2,8 @@
 date: '2021-09-01'
 title: 'Spotify Profile'
 github: 'https://github.com/michaelyaacoub/spotify-api-app'
-cover: './crosswayfis.png'
-external: ''
+cover: './SpotifyProfile.png'
+external: 'https://github.com/michaelyaacoub/spotify-api-app'
 tech:
   - React
   - Styled Components
