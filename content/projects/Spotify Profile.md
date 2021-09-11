@@ -1,8 +1,8 @@
 ---
 date: '2021-09-01'
 title: 'Spotify Profile'
-github: ''
-external: ''
+github: 'https://github.com/michaelyaacoub/spotify-api-app'
+external: 'https://spotify-profiles.herokuapp.com/'
 tech:
   - React
   - Styled Components
