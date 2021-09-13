@@ -135,10 +135,9 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Michael, I have a passion to develop & learn new technologies for the web.
+              Hello! My name is Michael, I have a passion for web development & learning new technologies to build modern apps.
               I am also a proud graduate of{' '}
               <a href="https://betheltech.net/">Bethel School of technology</a>{' '}
-              class of June 2021
             </p>
 
             <p>
@@ -147,8 +146,9 @@ const About = () => {
               My main focus these days is building frontend projects and grow my skills daily.
             </p>
 
-            <p> I am more focused on #React.js
-              However, here are few technologies that I've learned at @<a href="https://betheltech.net/">betheltech</a>{' '}, and been growing in and working with:</p>
+            <p> I am more focused on #React.js and frontend.
+              However, here are few technologies that I've been growing and working with:
+            </p>
           </div>
 
           <ul className="skills-list">
