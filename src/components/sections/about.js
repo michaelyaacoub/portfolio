@@ -157,7 +157,7 @@ const About = () => {
             </p>
 
             <p> I am more focused on React.js and frontend.
-              However, here are few technologies that I've been growing and working with:
+              However, here are few technologies that I have been growing and working with:
             </p>
           </div>
 
