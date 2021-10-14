@@ -4,7 +4,9 @@ node_modules
 yarn-error.log
 package-lock.json
 LICENSE
-README.md
+
+yarn.lock
+favicon.png
 
 # Build directory
 /public
