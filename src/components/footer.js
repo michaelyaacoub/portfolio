@@ -77,7 +77,7 @@ const Footer = () => {
     if (process.env.NODE_ENV !== 'production') {
       return;
     }
-    fetch('https://api.github.com/repos/bchiang7/v4')
+    fetch('https://github.com/michaelyaacoub/portfolio')
       .then(response => response.json())
       .then(json => {
         const { stargazers_count, forks_count } = json;
@@ -108,7 +108,7 @@ const Footer = () => {
         <a href="">
           <div>...Michael Yaacoub...</div>
 
-          {/* {githubInfo.stars && githubInfo.forks && (
+          {githubInfo.stars && githubInfo.forks && (
             <div className="github-stats">
               <span>
                 <Icon name="Star" />
@@ -119,7 +119,7 @@ const Footer = () => {
                 <span>{githubInfo.forks.toLocaleString()}</span>
               </span>
             </div>
-          )} */}
+          )}
         </a>
       </StyledCredit>
     </StyledFooter>
