@@ -11,7 +11,7 @@ const variables = css`
     /* lineColor */
     --lightest-navy: #e6f1ff;
     /* navBar */
-    --navy-shadow: rgba(2, 12, 18, 0.7);
+    --navy-shadow: rgba(10, 25, 47, 0.85);
     /* scrollBar */
     --dark-slate: #1a1826;
     /* header description */
@@ -20,7 +20,6 @@ const variables = css`
     --light-slate: #a8b2d1;
     /* titlesColor */
     --lightest-slate: #ccd6f6;
-
     --white: #e6f1ff;
     /* majorColor */
     --green: #FFF7DB;
