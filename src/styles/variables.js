@@ -7,13 +7,13 @@ const variables = css`
     --navy: background-image: -webkit-gradient(linear,left top,left bottom,from(#0d1465),to(#1a27c9));
             background-image: linear-gradient(180deg,#0d1465,#1a27c9);;
     /* cardBackground */
-    --light-navy: #171515;
+    --light-navy: #0e1997;
     /* lineColor */
     --lightest-navy: #e6f1ff;
     /* navBar */
     --navy-shadow: rgba(10, 25, 47, 0.85);
     /* scrollBar */
-    --dark-slate: #1a1826;
+    --dark-slate: #0e1997;
     /* header description */
     --slate: #8892b0;
     /* jobDecriptopn + sideBar */
@@ -23,7 +23,7 @@ const variables = css`
     --white: #e6f1ff;
     /* majorColor */
     --green: #FFF7DB;
-    --green-tint: #050303;
+    --green-tint: #0e1997;
     /* old --green: #ff6467; */
     --font-sans: 'Calibre', 'San Francisco', 'SF Pro Text', -apple-system, system-ui, sans-serif;
     --font-mono: 'SF Mono', 'Fira Code', 'Fira Mono', 'Roboto Mono', monospace;
