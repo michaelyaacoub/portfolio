@@ -2,7 +2,7 @@ import { css } from 'styled-components';
 
 const variables = css`
   :root {
-    --dark-navy: #01050a;
+    --dark-navy: gray;
     /* homeBackground */
     --navy: background-image: -webkit-gradient(linear,left top,left bottom,from(#0d1465),to(#1a27c9));
             background-image: linear-gradient(180deg,#0d1465,#1a27c9);;
@@ -23,7 +23,7 @@ const variables = css`
     --white: #e6f1ff;
     /* majorColor */
     --green: #FFF7DB;
-    --green-tint: #0e1997;
+    --green-tint: #050303;
     /* old --green: #ff6467; */
     --font-sans: 'Calibre', 'San Francisco', 'SF Pro Text', -apple-system, system-ui, sans-serif;
     --font-mono: 'SF Mono', 'Fira Code', 'Fira Mono', 'Roboto Mono', monospace;
