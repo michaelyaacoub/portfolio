@@ -3,9 +3,10 @@ import { css } from 'styled-components';
 const variables = css`
   :root {
     --dark-navy: #01050a;
-    --navy: #0d0a0a;
+    --navy: background-image: -webkit-gradient(linear,left top,left bottom,from(#0d1465),to(#1a27c9));
+            background-image: linear-gradient(180deg,#0d1465,#1a27c9);;
     --light-navy: #171515;
-    --lightest-navy: #1f1a18;
+    --lightest-navy: #26201d;
     --navy-shadow: rgba(2, 12, 18, 0.7);
     --dark-slate: #1a1826;
     --slate: #8892b0;
