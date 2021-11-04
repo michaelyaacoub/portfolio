@@ -23,7 +23,7 @@ const variables = css`
     --white: #e6f1ff;
     /* majorColor */
     --green: #FFF7DB;
-    --green-tint: #050303;
+    --green-tint: #0e1997;
     /* old --green: #ff6467; */
     --font-sans: 'Calibre', 'San Francisco', 'SF Pro Text', -apple-system, system-ui, sans-serif;
     --font-mono: 'SF Mono', 'Fira Code', 'Fira Mono', 'Roboto Mono', monospace;
