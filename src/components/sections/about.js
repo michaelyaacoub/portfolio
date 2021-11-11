@@ -131,13 +131,10 @@ const About = () => {
     'Node.js',
     'React.js',
     'REST APIs',
-    'Java',
-    'Spring Boot',
     'MySQL',
     'JavaScript',
     'CSS',
     'HTML',
-    'AWS',
   ];
 
   return (
