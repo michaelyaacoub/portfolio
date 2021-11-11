@@ -14,8 +14,7 @@ const StyledLoader = styled.div`
   right: 0;
   width: 100%;
   height: 100%;
-  background-image: -webkit-gradient(linear,left top,left bottom,from(#0d1465),to(#1a27c9));
-    background-image: linear-gradient(180deg,#0d1465,#1a27c9);;;
+  background-image: -webkit-gradient(linear,left top,left bottom,from(#0d1465),to(#0e1997));
   z-index: 99;
 
   .logo-wrapper {
