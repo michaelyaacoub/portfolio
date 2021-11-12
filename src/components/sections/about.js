@@ -151,12 +151,12 @@ const About = () => {
             </p>
 
             <p>
-              I have the privilege to be working on a few freelancing projects.
+              I have the privilege to be part of a two freelancing projects.
               <br />
               My main focus these days is building frontend projects and grow my skills daily.
             </p>
 
-            <p> I am more focused on #React.js and frontend.
+            <p> I am more focused on React.js and frontend.
               However, here are few technologies that I've been growing and working with:
             </p>
           </div>
