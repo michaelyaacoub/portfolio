@@ -64,7 +64,8 @@ const Hero = () => {
   const four = (
     <p>
 
-      I am Irvine, CA-based software developer who specializes in building Web apps. Currently, I am working on freelancing projects.
+      I am a software developer who is based in Southern California and specializes in building web apps.
+      Currently, I am developing my skills and part of two projects.
       {/* {' '}<a href="hhttps://www.solace-software.com/" target="_blank" rel="noreferrer">Solace Software House
       </a>
       focused on rebuilding the offical website, that could be managable and accessible an avarage person. */}
