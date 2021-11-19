@@ -3,16 +3,26 @@ import { css } from 'styled-components';
 const variables = css`
   :root {
     --dark-navy: #01050a;
+    /* homeBackground */
     --navy: background-image: -webkit-gradient(linear,left top,left bottom,from(#0d1465),to(#1a27c9));
             background-image: linear-gradient(180deg,#0d1465,#1a27c9);;
+    /* cardBackground */
     --light-navy: #171515;
-    --lightest-navy: #26201d;
+    /* lineColor */
+    --lightest-navy: #e6f1ff;
+    /* navBar */
     --navy-shadow: rgba(2, 12, 18, 0.7);
+    /* scrollBar */
     --dark-slate: #1a1826;
+    /* header description */
     --slate: #8892b0;
+    /* jobDecriptopn + sideBar */
     --light-slate: #a8b2d1;
+    /* titlesColor */
     --lightest-slate: #ccd6f6;
+
     --white: #e6f1ff;
+    /* majorColor */
     --green: #FFF7DB;
     --green-tint: #050303;
     /* old --green: #ff6467; */
