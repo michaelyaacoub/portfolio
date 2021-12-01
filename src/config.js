@@ -15,6 +15,10 @@ module.exports = {
       url: 'https://www.linkedin.com/in/michael-yaacoub',
     },
     {
+      name: 'Medium',
+      url: 'https://www.medium.com/michael-yaacoub7',
+    },
+    {
       name: 'Codepen',
       url: 'https://codepen.io/michaelyaacoub',
     },
