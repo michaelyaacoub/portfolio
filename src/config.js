@@ -16,7 +16,7 @@ module.exports = {
     },
     {
       name: 'Medium',
-      url: 'https://www.medium.com/michael-yaacoub7',
+      url: 'https://medium.com/@michael.yaacoub7',
     },
     {
       name: 'Codepen',
