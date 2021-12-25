@@ -1,9 +1,10 @@
 ## 🚨 Forking this repo (please read!)
 
-Please note that I did not build this site with the intention of it being a starter theme, so if you have questions about implementation, please refer to the [Gatsby docs](https://www.gatsbyjs.org/docs/).
+If you have questions about implementation, please refer to the [Gatsby docs](https://www.gatsbyjs.org/docs/).
 
 ### TL;DR
-
+Proper credit goes to brittanychiang.com who originally built that app.
+Thank you Brittany 🙏 
 ## 🛠 Installation & Set Up
 
 1. Install the Gatsby CLI
