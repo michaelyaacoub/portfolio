@@ -5,8 +5,7 @@ Proper credit goes to [Brittany Chiang](brittanychiang.com) who originally built
 Thank you Brittany for keeping that an open source [project](https://github.com/bchiang7/v4) 🙏 
 
 
-## 🚨 Forking this repo (please read!)
-
+## Forking this repo
 If you have questions about implementation, please refer to the [Gatsby docs](https://www.gatsbyjs.org/docs/).
 
 ## 🛠 Installation & Set Up
