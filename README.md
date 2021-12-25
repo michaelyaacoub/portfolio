@@ -1,6 +1,6 @@
 
 ### TL;DR
-Proper credit goes to [Brittany Chang](https://github.com/bchiang7/v4) who originally built that app.
+Proper credit goes to [Brittany Chiang](https://github.com/bchiang7/v4) who originally built that app.
 
 Thank you [Brittany](brittanychiang.com) for keeping that an open source project 🙏 
 
