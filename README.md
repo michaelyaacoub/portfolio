@@ -1,10 +1,13 @@
-## 🚨 Forking this repo (please read!)
-
-If you have questions about implementation, please refer to the [Gatsby docs](https://www.gatsbyjs.org/docs/).
 
 ### TL;DR
 Proper credit goes to brittanychiang.com who originally built that app.
 Thank you Brittany 🙏 
+
+
+## 🚨 Forking this repo (please read!)
+
+If you have questions about implementation, please refer to the [Gatsby docs](https://www.gatsbyjs.org/docs/).
+
 ## 🛠 Installation & Set Up
 
 1. Install the Gatsby CLI
